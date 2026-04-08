@@ -1,4 +1,4 @@
-print('Bem vindo ao programa que lista o nome de 5 pessoas') 
+print('Bem vindo ao programa que lista o nome de 5 pessoas')
 # Mostra uma mensagem explicando o objetivo do programa.
 
 nomes = []
