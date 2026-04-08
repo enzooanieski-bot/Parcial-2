@@ -1,5 +1,5 @@
 print('Bem vindo ao programa que soma dois números!')   
-# primeira mensagem que aparece na tela para o usuário.
+# primeira mensagem que aparece na tela para o usuário
 
 n1 =input("Digite o primeiro número: ")
 n2 =input("Digite o segundo número: ")
